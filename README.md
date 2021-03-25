@@ -20,7 +20,13 @@ Hoje curso Engenharia Civil e Especialização em Geoprocessamento e Georreferen
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
 
+## Projetos:
+Veja os projetos publicados no meu blog:
+* **Análises de casos de UFOs (Parte 1):**[ Projeto](https://www.joaoataide.com/post/an%C3%A1lises-de-casos-de-ufos-parte-1-1)
+* **Panorama do COVID-19 no Brasil:**[ Projeto](https://www.joaoataide.com/post/panorama-do-covid-19-no-brasil)
+* **Análise da violência no Rio de Janeiro:**[ Projeto](https://www.joaoataide.com/post/análise-da-violênca-no-rio-de-janeiro)
 ---
+
 
 
 
