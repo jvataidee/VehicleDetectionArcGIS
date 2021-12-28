@@ -20,12 +20,3 @@ Hoje curso Engenharia Civil e Especialização em Geoprocessamento e Georreferen
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
 
-## Sobre o Projeto:
-* [Link dos Vídeos:](https://www.linkedin.com/in/joaoataidee/)
-
----
-
-
-
-
-
