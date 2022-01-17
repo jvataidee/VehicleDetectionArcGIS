@@ -4,19 +4,13 @@
 </p>
 
 # João Ataíde
-<sub>*Cientista de Dados na Imagem – Soluções de Inteligência Geográfica​</sub>
+<sub>*Cientista de Dados na Imagem Esri*</sub>
 
-Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Árido (UFERSA), onde trabalhei como bolsista no Acesso à Terra Urbanizada nos projetos Smart Cities, REURBE'S, MAPA e hoje no Urbis, obtive experiências práticas e teóricas na área das geotecnologias, com ênfase em levantamento cartográfico. Após essa graduação na mesma instituição me formei em Engenharia Civil.
-
-Também sou especialista em Ciência de Dados pela Universidade Norte do Paraná (UNOPAR) e especialista em Geoprocessamento e Georreferenciamento (UFERSA) e hoje estou fazendo o MBA em Pesquisa Operacional e tomada de decisão (BsBr).
-
-Fui estagiário da InPlantar Meio Ambiente, e Engenharia, neste realizamos trabalhos com técnicas e ferramentas de geoprocessamento, na aquisição, tratamento e suporte de dados e banco de dados.
-
-Hoje atuo como cientista de dados na Imagem – Soluções de Inteligência Geográfica, desenvolvendo soluções que integram as capacidades analíticas e espaciais do ArcGIS com a versatilidade e acurácia dos modelos de Machine Learning e Deep Learning.
-
-**Background in:** Python, GIS, ArcGIS, OpenCV.
+Esse aqui é meu reporitório do trabalho de conclusão de curso da especialização em geoprocessamento e georreferênciamento na UFERSA, neste realizei o treinamento de um modelo de detecção e contagem de veículos diretamente no ArcGIS Pro, aqui você vai encontrar todos os notebooks de todas a etapas que foram realizadas para chegar ao resultado.
 
 **Links:**
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
+* e_mail: contato@joaoataide.com
+
 
