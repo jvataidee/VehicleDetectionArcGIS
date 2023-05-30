@@ -1,19 +1,23 @@
+# Vehicle Detection with ArcGIS
 
-<p align="center">
-  <img src="bannerr.jpg" >
-</p>
+This repository houses the work for my thesis for the specialization in geoprocessing and georeferencing at UFERSA, where I trained a model for vehicle detection and counting directly in ArcGIS Pro. The project is divided into several steps, each represented by a Jupyter notebook:
 
-# João Ataíde
-<sub>*Cientista de Dados na Imagem Esri*</sub>
+1. `estabilizing.ipynb`: This notebook likely involves the initial data processing and stabilization needed to prepare for the machine learning phase.
+2. `training.ipynb`: This notebook is likely where the machine learning model is trained. It probably involves loading the data, creating the model, and training the model using the data.
+3. `application.ipynb`: This notebook probably demonstrates how to use the trained model to detect and count vehicles in new, unseen images.
 
----
-Esse aqui é meu reporitório do trabalho de conclusão de curso da especialização em geoprocessamento e georreferênciamento na UFERSA, neste realizei o treinamento de um modelo de detecção e contagem de veículos diretamente no ArcGIS Pro, aqui você vai encontrar todos os notebooks de todas a etapas que foram realizadas para chegar ao resultado.
+## Background
 
-**Background in:** Python, ArcGIS Pro, ArcGIS Learn.
+This project utilizes the following technologies:
 
-**Links:**
-* [Blog](https://www.joaoataide.com)
-* [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
-* e_mail: contato@joaoataide.com
+- Python
+- ArcGIS Pro
+- ArcGIS Learn
 
----
+## Author
+
+João Ataíde, Data Scientist at Imagem Esri.
+
+For more information about me and my work, please visit my [Blog](http://joaoataide.com) or [LinkedIn](https://www.linkedin.com/in/jvataide/).
+
+If you have any questions, feel free to reach out via email: [contato@joaoataide.com](mailto:contato@joaoataide.com).
