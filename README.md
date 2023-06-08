@@ -1,3 +1,5 @@
+![Project Image](bannerr.jpg)
+
 # Vehicle Detection with ArcGIS
 
 This repository houses the work for my thesis for the specialization in geoprocessing and georeferencing at UFERSA, where I trained a model for vehicle detection and counting directly in ArcGIS Pro. The project is divided into several steps, each represented by a Jupyter notebook:
